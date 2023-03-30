@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+.topnav {
+    background-color: #29A7CC;
+    overflow: hidden;
+    font-family: 'Delicious Handrawn', cursive;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #FFCBFC;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #249ABD;
+    color: #FFFFCB;
+  }
+  
+  .topnav a.active {
+    background-color:#FFCBFC ;
+    color: #29A7CC;
+  }
+body{
+    background-color: #249ABD ;
+}
