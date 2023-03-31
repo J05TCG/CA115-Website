@@ -1,34 +1,89 @@
 @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
 .topnav {
     background-color: #29A7CC;
     overflow: hidden;
     font-family: 'Delicious Handrawn', cursive;
   }
   
-  .topnav a {
+.topnav a {
     float: left;
     color: #FFCBFC;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 50px;
   }
   
-  .topnav a:hover {
+.topnav a:hover {
     background-color: #249ABD;
     color: #FFFFCB;
   }
   
-  .topnav a.active {
+.topnav a.active {
     background-color:#FFCBFC ;
     color: #29A7CC;
   }
 body{
     background-color: #249ABD ;
 }
-h1 {
-    font-family: 'Delicious Handrawn', cursive;
-    color:#FFCBFC;
-    margin: 100px;
-    font-size: 300%;
+.details1{
+  float:left;
+  color:black;
+  text-align:left;
+  padding: 5px 5px;
 }
+.details1 p{
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  color: #FAC898;
+}
+.details1 h1{
+  text-align: center;
+  font-family:'Delicious Handrawn', cursive;
+  float: right;
+  color:#FDFD96 ;
+  font-size: 50px;
+}
+.details2 {
+float: right;
+text-align: left;
+margin-top: 5%;
+}
+.details2 h1{
+  text-align: center;
+  font-family:'Delicious Handrawn', cursive;
+  float: right;
+  color:#FDFD96 ;
+  margin-right: 50px;
+  font-size: 50px
+}
+.details2 p{
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  color: #FAC898;
+  margin-left: 40%;
+}
+.pricing {
+  float:left;
+  color:black;
+  text-align:left;
+  padding: 5px 5px;
+}
+.pricing h1{
+  text-align: center;
+  font-family:'Delicious Handrawn', cursive;
+  float: right;
+  color:#FDFD96 ;
+  margin-right: 50px;
+  font-size: 50px
+}
+.pricing p{
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  color: #FAC898;
+}
+
+
+
