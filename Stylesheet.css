@@ -27,5 +27,8 @@ body{
     background-color: #249ABD ;
 }
 h1 {
+    font-family: 'Delicious Handrawn', cursive;
+    color:#FFCBFC;
     margin: 100px;
+    font-size: 300%;
 }
