@@ -27,5 +27,8 @@ body{
     background-color: #249ABD ;
 }
 h1 {
-    color: #FFCBFC;
+  color: blue;
+}
+p {
+  color: red;
 }
